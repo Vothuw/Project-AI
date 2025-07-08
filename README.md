@@ -1,4 +1,3 @@
-# Project-AI
 # AI-CHALLENGE-3I
 # MEAL at UEH Canteen 🍱 –  ONLY WITH F5! 💻
 Link Train CNN + Menu.Json: Link Train CNN + Menu.Json:(https://drive.google.com/drive/folders/1EA9ftrHVHxNf77KtOb5ZV8t8-IeeteV_?usp=sharing)
